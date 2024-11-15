@@ -1,5 +1,6 @@
-def calculatePi():
+def calculatePi(digits):
   result = 0
   return result
 
-print(result)
+number_of_digits = input()
+print(calculatePi(number_of_digits)
